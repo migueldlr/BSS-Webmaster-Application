@@ -1,6 +1,6 @@
 # Broad Street Scientific Website
 
-This is a repository of code for the website of the Broad Street
+This is an example repository of code for the website of the Broad Street
 Scientific, the research journal at NCSSM.
 
 You can download the code to your local machine by using
