@@ -5,5 +5,5 @@ Scientific, the research journal at NCSSM.
 
 You can download the code to your local machine by using
  the standard `git clone 
-https://bitbucket.org/goldage5/broad-street-scientific`,
+https://github.com/tiwanll/BSS-Webmaster-Application,
  or by clicking the "Downloads" link on in the navigation.
